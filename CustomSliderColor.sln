@@ -1,9 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSliderColor.iOS", "iOS\CustomSliderColor.iOS.csproj", "{2BB3D8D8-B9A6-4138-A05E-B4ACEB419181}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSliderColor.iOS", "CustomSliderColor.iOS\CustomSliderColor.iOS.csproj", "{2BB3D8D8-B9A6-4138-A05E-B4ACEB419181}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSliderColor.Droid", "Droid\CustomSliderColor.Droid.csproj", "{44CF6D27-E6AD-4E06-A249-5680FC548090}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSliderColor.Droid", "CustomSliderColor.Droid\CustomSliderColor.Droid.csproj", "{44CF6D27-E6AD-4E06-A249-5680FC548090}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSliderColor", "CustomSliderColor\CustomSliderColor.csproj", "{1D54C95B-9873-484E-B558-4100F9234FA9}"
 EndProject
